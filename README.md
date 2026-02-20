@@ -1,6 +1,8 @@
 # Algorithm Practice (Python)
 
-Clean Python implementations of classic LeetCode problems for interview preparation.
+Clean Python implementations of classic algorithm problems for interview preparation.  
+Each solution includes time and space complexity analysis.  
+Actively adding new problems.
 
 ---
 
