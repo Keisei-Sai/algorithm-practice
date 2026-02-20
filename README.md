@@ -8,3 +8,7 @@ This repository contains clean Python implementations for interview preparation.
 - Space Complexity: O(n)
 
 File: `two_sum.py`
+
+## Greedy / One-pass
+
+- Best Time to Buy and Sell Stock — One-pass greedy, O(n) time / O(1) space (`best_time_buy_sell_stock.py`)
