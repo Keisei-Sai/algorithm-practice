@@ -22,3 +22,7 @@ Actively adding new problems.
 ## Greedy / One-pass
 
 - Best Time to Buy and Sell Stock (LeetCode #121) — One-pass greedy, O(n) time / O(1) space (`best_time_buy_sell_stock.py`)
+
+## Binary Search
+
+- Binary Search (LeetCode #704) — Binary search, O(log n) time / O(1) space (`binary_search.py`)
