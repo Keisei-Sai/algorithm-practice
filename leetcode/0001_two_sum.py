@@ -1,3 +1,9 @@
+"""
+LeetCode 1. Two Sum
+Approach: Hash Map
+Time: O(n), Space: O(n)
+"""
+
 from typing import List, Tuple
 
 def two_sum(nums: List[int], target: int) -> Tuple[int, int]:
