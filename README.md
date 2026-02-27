@@ -1,6 +1,6 @@
 # Algorithm Practice (Python)
 
-Clean Python implementations of classic algorithm problems for interview preparation.
+Currently solving LeetCode problems regularly to strengthen algorithmic thinking.
 
 ## Purpose
 
