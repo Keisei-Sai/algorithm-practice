@@ -1,12 +1,23 @@
 # Algorithm Practice (Python)
 
-Clean Python implementations of classic algorithm problems for interview preparation.  
-Each solution includes time and space complexity analysis.  
-Actively adding new problems.
+Clean Python implementations of classic algorithm problems for interview preparation.
+
+## Purpose
+
+This repository documents my ongoing training in algorithmic problem solving, focusing on clarity, correctness, and computational thinking.  
+Each solution includes time and space complexity analysis and is continuously improved as I learn.
 
 ## ⭐ Featured Project: Manifold Optimization
-Optimization algorithms on Riemannian manifolds with **reproducible experiments / benchmarks**.  
+
+Implementation and visualization of optimization algorithms on Riemannian manifolds, demonstrating how geometric constraints influence convergence behavior through reproducible experiments. 
 https://github.com/Keisei-Sai/manifold-optimization
+
+## Learning Focus
+
+- Data structures fundamentals
+- Algorithmic problem solving patterns
+- Writing clean and readable implementations
+- Building consistent daily coding habits
 
 ---
 
